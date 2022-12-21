@@ -51,6 +51,14 @@ def get_filters():
     return city, month, day
 
 
+def show():
+    print("python code")
+
+    def printInfo():
+        print("Amjadsuw")
+        print("Information System")
+
+
 def load_data(city, month, day):
 
     """
@@ -88,6 +96,7 @@ def load_data(city, month, day):
         df = df[df['day_of_week'] == day.title()]
 
     return df
+
 
 def time_stats(df):
     """Displays statistics on the most frequent times of travel."""
