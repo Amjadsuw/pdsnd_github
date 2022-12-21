@@ -52,7 +52,10 @@ def get_filters():
 
 
 def show():
-    print('python code')
+    print("python code")
+
+    def printInfo():
+        print("Amjadsuw")
 
 
 def load_data(city, month, day):
