@@ -56,6 +56,7 @@ def show():
 
     def printInfo():
         print("Amjadsuw")
+        print("Information System")
 
 
 def load_data(city, month, day):
