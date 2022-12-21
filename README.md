@@ -20,3 +20,6 @@ chicago.csv
 ### Credits
 https://www.w3schools.com/python/
 
+### About me
+I 'm Amjad Alsuwaiket , I have bachelor's degree in information system . 
+
